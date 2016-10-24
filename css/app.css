@@ -1,0 +1,51 @@
+/**
+ * Copyright 2016-present, Ingelectus SL
+ * All rights reserved.
+ *
+ * This source code is licensed under the BSD-style license found in the
+ * LICENSE file in the root directory of this source tree. An additional grant
+ * of patent rights can be found in the PATENTS file in the same directory.
+ *
+ * @author agastalver
+ */
+
+
+html, body{
+  height:100%;
+}
+
+.cover{
+    display: table;
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.cover-inner{
+    display: table-cell;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.cover-inner-element{
+    color: rgba(255,255,255,0.85);
+    padding: 20px;
+    background-color: rgba(0,74,121,1);
+    box-shadow: 0 0 20px #000;
+    -moz-box-shadow: 0 0 20px #000;
+    -webkit-box-shadow: 0 0 20px #000;
+}
+
+.cover .img-responsive{
+    margin: auto;
+}
+
+.marginTop50{
+  margin-top: 50px;
+}
+
