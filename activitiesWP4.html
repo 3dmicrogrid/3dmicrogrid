@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>3DMicroGrid</title>
+    <link rel="shortcut icon" href="/img/favicon.png">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/app.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+         <div class='row'> 
+          <div class='col-md-6'>
+            <img src="img/icon.png" class="img-responsive">
+          </div>
+          <div class='col-md-6'>
+            <img src='img/eranetSevenLogo.png' class='img-responsive'>
+          </div>
+        </div>
+      </div>
+ 
+      <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+      <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="navbar-collapse nav-justified" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav" id='navbar'>
+            <li><a href="home.html" class='colorWhite'>Home</a></li>
+            <li><a href="overview.html" class='colorWhite'>Overview</a></li>
+            
+            <li class="dropdown active">
+            <a href="#" class="dropdown-toggle colorWhite" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Activities<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="activitiesWP1.html">WP1</a></li>
+              <li><a href="activitiesWP2.html">WP2</a></li>
+              <li><a href="activitiesWP3.html">WP3</a></li>
+              <li><a href="activitiesWP4.html">WP4</a></li>
+              <li><a href="activitiesWP5.html">WP5</a></li>
+            </ul>
+            </li>
+            <li><a href="profiles.html" class='colorWhite'>Participants</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+ 
+    <div class='container'>
+      <div class='row'>
+        <div class='col-md-12'>  
+          <div class='row'>
+            <h3 class='borde-bajo'>
+            OBJETIVES
+            </h3>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>Objetive 4.1</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>Develop a quasi-real time monitoring system for supporting the operation of the MCAST smart micro-grid.</p>
+              </div>
+            </div>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>Objetive 4.2</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>Develop the system control architecture for implementing the core functionality needed as outlined in the functional specification.</p>
+              </div>
+            </div>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>Objetive 4.3</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>Test the system control architecture of the MCAST smart micro-grid in simulations, using the simulation model.</p>
+              </div>
+            </div>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>Objetive 4.4</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>Ensure the security and reliability of the MCAST micro-grid during load disturbances.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col-md-12'>
+          <div class='row'>
+            <h3 class='borde-bajo'>
+            TASKS
+            </h3>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>T4.1 – Dynamic simulation model for the MCAST Smart Micro-grid (Leader: UCY Partners: MCAST, EN, CERTH)</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>The assessment of the MCAST micro-grid performance in a simulation scale is a critical aspect and is expected to show the impact of the proposed micro-grid prior to its implementation in the real field. In this task, accurate and dynamic models for all the individual components of the MCAST micro-grid will be implemented (diesel generators, PV systems, wind power systems, load models, cables). The architecture of each component and its controller will be modelled in order to ensure their proper operation. The individual components of the micro-grid will be combined under the same simulation platform (DigSILENT PowerFactory) to accomplish an analytical dynamic model. The steady state and dynamic performance of the micro-grid under several operating conditions and under several events will be studied. This will allow the verification of the design (according to WP3) in order to proceed with the actual development (in WP5). The designed simulation models for the individual components and of the whole micro-grid will be verified and evaluated using real measurements from the micro-grid in WP5.<br> The study of the dynamic performance of the micro-grid may reveal some problems. An example is the poor load sharing between a synchronous generator and a power electronic based storage system especially in an islanded operation [a]. In such case, several techniques will be proposed (and if necessary employed in the local controller of the micro-grid) for achieving a more equal load sharing by considering the machine dynamics.</p>
+              </div>
+            </div>
+            <hr>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>T4.2 – Definition of the Supervisory Control and Data Acquisition (SCADA) system for monitoring and controlling the smart micro-grid (Leader: CERTH Partners: MCAST, UCY)</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>The nearly unpredictable nature of the renewable energy sources requires a robust monitoring system. It is highly recommended that a smart micro-grid will have a SCADA system for proper monitoring and control. The backbone of a monitoring system is the communication infrastructure. An important target is to achieve an optimal communication infrastructure in terms of cost, data latency and measuring needs. Ambient and personalized user interfaces will be developed for informing the users about the status of the micro-grid. The requirements specified by WP3 (Tasks 3.2 & 3.3) will be used in the development of these interfaces and tools.</p>
+              </div>
+            </div>
+            <hr>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>T4.3 – Design of centralized controller for active smart micro-grid operation (Leader: UCY Partners: AGU, UoS, CERTH, SCAMRE)</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>The SCADA system. Task 4.2 will enable the monitoring of the micro-grid and will allow to apply higher level centralized control techniques that will regulate the performance of the micro-grid. Such a controller is essential in order to toggle between stand-alone and grid-connected operation and to send the proper set-points on the active loads, generators and storage to maintain the voltage and frequency stability. The centralized controller will also be responsible for the resource scheduling allocation problem of the micro- grid, which is in essence a highly nonlinear problem [b]. In certain regions of some Mediterranean countries, telecommunication facilities may not be reliable continuously. In these cases, the centralized controller will not be able to function appropriately and the local controllers will take over to control the individual components of the micro-grid.</p>
+              </div>
+            </div>
+            <hr>
+            <div class='row'>
+              <div class='col-md-3'>
+                <b>T4.4 – Dynamic and stochastic optimization models and agent technologies for active smart micro-grids (Leader: UCY Partners: AGU, UoS, GJU, SCAMRE)</b>
+              </div>
+              <div class='col-md-9'>
+                <p class='justyfied'>Micro-grids are generally characterized by very low inertia when in stand-alone operation mode. This means that a more appropriate approach in dealing with the optimal allocation of resources would involve the dynamic behaviour of the system. This task will advance the state of the art in formulating hybrid dynamic  optimization models (time and event dependent). Time dependent dynamic optimization gives the possibility of optimum use of generation resources and optimal allocation.<br> Explicitly integrating the uncertainty of RES into the actual optimal operation of the main power system was recently proposed [b]. We will build on this approach in order to derive stochastic optimization models for  active smart micro-grids. The stochastic optimization models will take into account the dynamic optimization  models developed in the previous task. These models together with the other micro-grid elements will be integrated in a multi-agent technology infrastructure.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/js/app.js"></script>
+  </body>
+</html>
