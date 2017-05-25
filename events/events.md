@@ -1,3 +1,16 @@
+title:3DMigroGrid's Press Release
+date:25 / 05 / 2017
+text:
+Recently our official press release has been published, with lots of information regarding the project's aim, its impact, development and more. While reading the release you will find some of our team members explaining how the 3DMicroGrid may change the involved campuses and their relevance.
+
+Here it is an extract of the press release:
+
+"Experts from leading institutions in Greece, Germany, Spain, Cyprus, Malta, Jordan, Turkey, and Algeria are leading a new evolution in the future smart micro-grid systems. They are meeting at CERTH as part of the activities of the3DMicroGrid project that is supported by the European Commission through the ERANETMED Initiative Programme. The project aims to facilitate the design, development and demonstration of an active smart micro-grid system to integrate and optimise multiple small to medium sized energy sources and loads."
+
+For more information, please visit [this link](https://certh.gr/A3363272.en.aspx).
+
+/end
+
 title:Official Poster & Brochure Release
 date:08 / 05 / 2017
 text:
