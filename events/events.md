@@ -5,7 +5,7 @@ We had the pleasure to receive Professor Ahmet Onen, from the Abdullah Gul Unive
 
 <div class='row'>
 	<div class='col-md-12'>
-		<img class='img-responsive' src='img/eventsFiles/ahmet.png'>
+		<img class='img-responsive' src='img/eventsFiles/ahmet.jpg'>
 	</div>
 </div>
 
