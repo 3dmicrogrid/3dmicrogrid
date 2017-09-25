@@ -1,3 +1,16 @@
+title:Prof. Ahmet Onen's Visit.
+date:25 / 09 / 2017
+text:
+We had the pleasure to receive Professor Ahmet Onen, from the Abdullah Gul University (Kayseri, Turkey) at the University of Seville, as one of the activities in the 3DMicrogrid project's frame. During his visit, Professor Ahmet Onen got into know the University of Seville's research activity, and carried out seminars showing his own work and the project's evolution. Thanks for your visit.
+
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/ahmet.jpg'>
+	</div>
+</div>
+
+/end
+
 title:3DMigroGrid's Press Release
 date:25 / 05 / 2017
 text:
