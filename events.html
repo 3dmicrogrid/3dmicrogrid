@@ -47,6 +47,7 @@
             </li>
             <li><a href="profiles.html" class='colorWhite'>Participants</a></li>
             <li><a href="downloads.html" class='colorWhite'>Downloads</a></li>
+            <li><a href="newsletters.html" class='colorWhite'>Newsletters</a></li>
           </ul>
         </div>
       </div>
@@ -69,7 +70,6 @@
 					allText 	= '';
 			textFile.open('GET','events/events.md',false);
 			textFile.send(null)
-
 			if(textFile.readyState == 4 && textFile.status == 200){
 				allText = textFile.responseText;
 			}
@@ -93,7 +93,6 @@
 						if(readable)
 							contenido += line+'\n';
 				});
-
 				var contentDiv 	= $('#contenido'),
 						rowDiv 			= document.createElement('div'),
 						titleH3 		= document.createElement('h3'),
@@ -102,12 +101,10 @@
 						html				= converter.makeHtml(contenido);
 				titleH3.innerHTML = titulo;
         titleFecha.innerHTML = fecha;
-
 				contentDiv.addClass('row');
 				titleH3.setAttribute('class','borde-bajo');
 				paragraph.setAttribute('class','justified');
 				paragraph.innerHTML = html;
-
 				contentDiv.append(titleH3);
 				contentDiv.append(paragraph);
         contentDiv.append(titleFecha);
