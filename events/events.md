@@ -1,3 +1,21 @@
+title:Seville's 3DMicrogrid Workshop: Smart Microgrid Design.
+date:23 / 11 / 2017
+text:
+
+From the 8th to the 10th of November, the University of Seville held the project's workshop about design of smart microgrids. Along the first day, assistants attended to [high-level lectures](https://www.youtube.com/channel/UC-RUkSB6cbPA8C-GHIs3uxA/videos) concerning the workshop main topics and real real cases' experience. 
+
+Following the [event's agenda](http://www.3dmicrogrid.com/downloads.html), the project's work packages evolution was addressed as technical discussions about microgrid's performance and modelling took place. The host university made a demostration of their scale microgrid and shown its low-temperature thermal plant at the building roof to the assistants, which were really pleased and interested indeed.
+
+Finally, the future meetings and events were considered, focusing on the project's-related papers, publications and sessions' repercussion.
+
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/seville_workshop.jpg'>
+	</div>
+</div>
+
+/end
+
 title:Prof. Ahmet Onen's Visit.
 date:25 / 09 / 2017
 text:
