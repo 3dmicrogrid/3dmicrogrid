@@ -33,6 +33,7 @@
           <ul class="nav navbar-nav" id='navbar'>
             <li><a href="home.html" class='colorWhite'>Home</a></li>
             <li><a href="overview.html" class='colorWhite'>Overview</a></li>
+            <li><a href="news.html" class='colorWhite'>News</a></li>
             <li class="active"><a href="events.html" class='colorWhite'>Events</a></li>
             
             <li class="dropdown">
@@ -68,7 +69,7 @@
 			var	converter = new showdown.Converter(),
 					textFile 	= new XMLHttpRequest(),
 					allText 	= '';
-			textFile.open('GET','events/events.md',false);
+			textFile.open('GET','content/events.md',false);
 			textFile.send(null)
 			if(textFile.readyState == 4 && textFile.status == 200){
 				allText = textFile.responseText;
