@@ -103,9 +103,11 @@ li {
 }
 
 .colorWhite {
-	color: white;
+	color: white !important;
 }
-
+.active .colorWhite {
+    color: black !important;
+}
 
 .margin-15{
 	margin: 15px
