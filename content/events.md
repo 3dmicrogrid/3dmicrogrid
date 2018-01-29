@@ -1,3 +1,13 @@
+title:9th International IEEE PES Asia-Pacific Power and Energy Engineering Conference.
+date:29 / 01 / 2018
+text:
+
+The 3DMicroGrid project participated in the 9th International IEEE PES Asia-Pacific Power and Energy Engineering Conference, that took place on 8-10 November 2017, in Bangalore, India (http://ieee-appeec2017.org). As representative, Angelina Bintoudi from CERTH/ITI, presented orally the project’s conceptual hierarchical agent-based control design for AC microgrids, in the context of a paper titled “Novel Hybrid Design For Microgrid Control”. The main functionalities and benefits that are expected to derive from the 3DMicroGrid architecture were detailed and later on discussed with the audience. During Q&A, the control architecture received constructive feedback and positive comments from academia and research community, notably about its inherit increased reliability as it derives from its ability to reconfigure in case of central controller failure.
+
+For more information, visit the conference site (http://ieee-appeec2017.org/) or contact the main author Angelina Bintoudi (bintoudi@iti.gr).
+
+/end
+
 title:Seville's 3DMicrogrid Workshop: Smart Microgrid Design.
 date:23 / 11 / 2017
 text:
