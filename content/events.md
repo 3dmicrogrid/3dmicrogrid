@@ -1,3 +1,18 @@
+title:MCAST Energy at the 27th International Photovoltaic Science and Engineering Conference (PVSEC-27), Japan.
+date:29 / 01 / 2018
+text:
+
+Recently Dr Ing. Brian Azzopardi and Ms. Renata Mikalauskiene from MCAST Energy Research Group (MCAST Energy) presented two posters at the 27th International Photovoltaic Science and Engineering Conference (PVSEC-27), Japan related with 3DMgrid project:
+    1.	ANALYSIS OF PHOTOVOLTAIC SYSTEMS OPERATING AT MCAST CAMPUS, MALTA
+    2.	A FUTURE-PROOF PILOT MICROGRID ENHANCING THE INTEGRATION OF PV GENERATION: 3DMicroGrid PROJECT
+    
+3DMGrid project: Design, Development and Demonstration of a future-proof active Smart MicroGrid system is partly funded by the Malta Council for Science and Technology (MCST) is also locally partnered with ESDL Ltd. and GEOSYS Ltd. among a consortium of 10 partners from Jordan, Spain, Germany, Greece and Cyprus. 
+The MCAST Energy Research Group (MCAST Energy), led by Dr Inġ. Brian Azzopardi, Principal Investigator (PI), leads the Energy Research Theme at MCAST. The group specialises in global and regional solutions by innovative devices in emerging technologies, systems level integration to policy engagement for better community. The breath of energy research at MCAST includes Device Fabrication and on-site Testing, Energy Economics and Policy, Efficient Buildings, Power Systems, Renewables and Transportation. The group specialises in applied research techniques including but not limited to optimisation, decision making and life cycle analysis. 
+This breadth of research at MCAST Energy is supported by the Malta Council of Science and Technology (MCST) through the ERANETMED initiative of Mediterranean Partner Countries for 3DMgrid project. 
+
+
+/end
+
 title:9th International IEEE PES Asia-Pacific Power and Energy Engineering Conference.
 date:29 / 01 / 2018
 text:
