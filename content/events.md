@@ -11,6 +11,11 @@ Recently Dr Ing. Brian Azzopardi and Ms. Renata Mikalauskiene from MCAST Energy 
 The MCAST Energy Research Group (MCAST Energy), led by Dr Inġ. Brian Azzopardi, Principal Investigator (PI), leads the Energy Research Theme at MCAST. The group specialises in global and regional solutions by innovative devices in emerging technologies, systems level integration to policy engagement for better community. The breath of energy research at MCAST includes Device Fabrication and on-site Testing, Energy Economics and Policy, Efficient Buildings, Power Systems, Renewables and Transportation. The group specialises in applied research techniques including but not limited to optimisation, decision making and life cycle analysis. 
 This breadth of research at MCAST Energy is supported by the Malta Council of Science and Technology (MCST) through the ERANETMED initiative of Mediterranean Partner Countries for 3DMgrid project. 
 
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/PVSEC_MCAST.jpg'>
+	</div>
+</div>
 
 /end
 
