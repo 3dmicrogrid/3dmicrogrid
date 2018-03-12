@@ -1,3 +1,27 @@
+title: New 3DMicrogrid Paper Available on IEEE Xplore.
+date:12 / 03 / 2018
+text:
+
+We are very pleased to annouce that our work from the 2017 IEEE PES Asia-Pacific Power and Energy Engineering Conference is now available on the IEEE Xplore. You can find it clicking on the following [link](http://ieeexplore.ieee.org/document/8308958/).
+
+/end
+
+
+title:PhD Student from AGU hosted at CERTH/ITI 
+date:07 / 03 / 2018
+text:
+
+CERTH/ITI had the pleasure to host Ms. Yeliz Yoldaş, a PhD student from the Abdullah Gul University (AGU, Kayseri, Turkey), as part of the Young Researchers mobility aspect in the 3DMicroGrid project. During her visit, the Secondary control level of the 3DMicroGrid control architecture has been defined in detail along with the optimization algorithms and full functionalities for the project’s Use Cases. Through iterative and interactive meetings and technical discussions about the 3DMicroGrid Centralised Controller, a novel optimization model has been drafted, and will be implemented from AGU in the following months. It was a fruitful experience for both parties and most promising research results are expected from this close collaboration. 
+
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/Exchange-CERTH.jpg'>
+	</div>
+</div>
+
+/end
+
+
 title:MCAST Energy at the 27th International Photovoltaic Science and Engineering Conference (PVSEC-27), Japan.
 date:29 / 01 / 2018
 text:
@@ -18,6 +42,7 @@ This breadth of research at MCAST Energy is supported by the Malta Council of Sc
 </div>
 
 /end
+
 
 title:9th International IEEE PES Asia-Pacific Power and Energy Engineering Conference.
 date:29 / 01 / 2018
