@@ -12,6 +12,16 @@ You may find the 3DMicroGrid's presentation [here](http://www.3dmicrogrid.com/pa
 
 /end
 
+title: EnergyCon and 3DMicrogrid Plenary Meeting
+date:20 / 06 / 2018
+text:
+
+The 3DMicrogrid project's crew attented to the EnergyCon 2018 at Limassol, Cyprus. While showing the attendats the latest results of the project's research, the 3DMicrogrid's internal meeting was being held, sharing results and opinion regarding the latest work.
+
+You can have a look at the shown papers following these links: [paper 1](http://www.3dmicrogrid.com/papers/EnergyCon%202018%20-%20Modeling%20and%20Real%20Time%20Simulation%20of%20Microgrids%20in%20Algerian%20Sahara%20Area.pdf), [paper 2](http://www.3dmicrogrid.com/papers/EnergyCon%202018%20-%20Design%20Factors%20for%20Developing%20an%20University%20Campus%20Microgrid.pdf), [paper 3](http://www.3dmicrogrid.com/papers/EnergyCon%202018%20-%20Improving%20the%20Controlabillity%20of%20Microgrids%20Through%20DC-Links.pdf).
+
+/end
+
 title: New 3DMicrogrid Paper Available on IEEE Xplore.
 date:12 / 03 / 2018
 text:
