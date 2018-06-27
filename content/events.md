@@ -1,3 +1,17 @@
+title: Energynautics at Hybrid Power Systems Workshop in Tenerife
+date:27 / 06 / 2018
+text:
+
+Recently, our partner Energynautics attented to the Hybrid Workshop at Tenerife showing to the audience the project latest news. The workshop participants made good use of this unique opportunity to discuss the challenges that arise when high shares of renewables (wind, solar, hydro) are integrated into island power systems/micro-grids, in combination with conventional power generators and optionally batteries/flywheels. Finding viable combinations of conventional and renewable energy is one key solution for the efficient and sustainable running of these types of power systems.
+
+These international experts convened to share their project experiences and to detect areas in need of improvement. With a total of 14 sessions and more than 50 presentations the spectrum of topics included in the Workshop ranged from hybrid system technologies and system modelling/simulation to intelligent control and grid stabilization as well as Mini-/Micro-Grid system design. Storage issues were covered as well as economic issues.
+
+Beside the regular sessions the workshop also offered great networking opportunities like the Workshop Dinner at the conference venue, poster sessions and a study trip to the Institute of Technology and Renewable Energies (ITER).
+
+You may find the 3DMicroGrid's presentation [here](http://www.3dmicrogrid.com/papers/Hybrid%20Workshop%20Tenerife%202018%20-%20Framework%20Design%20for%20Smart%20Microgrids.pdf) and [here](http://www.3dmicrogrid.com/papers/Hybrid%20Workshop%20Tenerife%202018%20-%20Energynautics.pdf).
+
+/end
+
 title: New 3DMicrogrid Paper Available on IEEE Xplore.
 date:12 / 03 / 2018
 text:
