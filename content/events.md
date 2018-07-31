@@ -1,3 +1,30 @@
+title: MCAST Energy presents three papers at the 7th World Conference on Photovoltaic Energy Conversion (WCPEC-7), Hawaii:
+date:31 / 07 / 2018
+text:
+
+Recently MCAST Energy Research Group (MCAST Energy) Principal Investigator Dr Inġ. Brian Azzopardi and two Master of Research (MRes) Candidates Mr Yesbol Gadullin and Mr Artem Sadula presented three papers at the 7th World Conference on Photovoltaic Energy Conversion (WCPEC-7), Hawaii. MCAST Energy contributions ranged from innovation updates on emerging solar cells technology, impacts of photovoltaics (PVs) and electric vehicles potential natural mitigation of PV impacts on the electricity grid and system-based study at MCAST campus on the data analysis of MCAST micro-grid, the latter as part of 3DMGrid Project.
+
+Full version of papers will be available via IEEExplore and the MCAST Energy webpage www.mcast.edu.mt/229.
+ 
+The awards-winning MCAST Energy specialises in global and regional solutions by innovative devices in emerging technologies, systems level integration to policy engagement for better community and social benefit. The breath of energy research at MCAST Energy includes Device Fabrication and on-site Testing, Energy Economics and Policy, Efficient Buildings, Power Systems, Renewables and Transportation. The group specialises in applied research techniques including but not limited to optimisation, decision making and life cycle analysis.
+ 
+This research is supported by the MCST through the ERANETMED initiative of Member States, Associated Countries and Mediterranean Partner Countries for 3DMGrid project, Transcargo Services Ltd. and Enemalta PLC.
+
+For more info please contact Dr Ing Brian Azzopardi at:
+brian.azzopardi@mcast.edu.mt.
+Tel: +356 23980 7704.
+Mob: +356 7900 8897.
+
+
+
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/Hawaii.jpg'>
+	</div>
+</div>
+
+/end
+
 title: Energynautics at Hybrid Power Systems Workshop in Tenerife
 date:27 / 06 / 2018
 text:
