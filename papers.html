@@ -101,11 +101,11 @@
           a = document.createElement('a');
         tr.setAttribute('class','clickable');
         a.setAttribute('href','papers/'+filename)
-        a.innerHTML = filename
-        td1.append(a)
+        a.innerHTML = available
+        td1.innerHTML   = filename
         td2.innerHTML   = f_type
         td3.innerHTML   = eventdate
-        td4.innerHTML   = available
+        td4.append(a)
         td5.innerHTML   = date
         tr.append(td1);
         tr.append(td2);
