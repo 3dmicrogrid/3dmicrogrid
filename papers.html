@@ -61,6 +61,7 @@
               <th class="warning">Title</th>
               <th class="warning">Type</th>
               <th class="warning">Availability</th>
+              <th class="warning">Event Name</th>  
               <th class="warning">Event Date</th>              
               <th class="warning">Updated date</th>              
             </thead>
@@ -87,9 +88,10 @@
       papers.map(function(elem){
         var filename = elem.split(':')[0];
         var f_type = elem.split(':')[1];
-        var eventdate = elem.split(':')[2];
-        var available = elem.split(':')[3];
-        var date     = elem.split(':')[4];
+        var eventname = elem.split(':')[2];
+        var eventdate = elem.split(':')[3];
+        var available = elem.split(':')[4];
+        var date     = elem.split(':')[5];
         console.log('elem: '+filename)
         var body = $('#body'),
           tr = document.createElement('tr'),
@@ -98,20 +100,23 @@
           td3 = document.createElement('td'),
           td4 = document.createElement('td'),
           td5 = document.createElement('td'),
+          td6 = document.createElement('td'),
           a = document.createElement('a');
         tr.setAttribute('class','clickable');
         a.setAttribute('href','papers/'+filename)
         a.innerHTML = available
         td1.innerHTML   = filename
         td2.innerHTML   = f_type
-        td3.innerHTML   = eventdate
-        td4.append(a)
-        td5.innerHTML   = date
+        td3.innerHTML   = eventname
+        td4.innerHTML   = eventdate
+        td5.append(a)
+        td6.innerHTML   = date
         tr.append(td1);
         tr.append(td2);
         tr.append(td3);
         tr.append(td4);
         tr.append(td5);
+        tr.append(td6);
         body.append(tr)
       });
     </script>
