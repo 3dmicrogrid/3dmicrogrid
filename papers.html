@@ -58,8 +58,11 @@
         <div class='col-md-12'>
           <table class="table table-responsive table-striped">
             <thead>
-              <th class="warning">File name</th>
-              <th class="warning">Updated date</th>
+              <th class="warning">Title</th>
+              <th class="warning">Type</th>
+              <th class="warning">Availability</th>
+              <th class="warning">Event Date</th>              
+              <th class="warning">Updated date</th>              
             </thead>
             <tbody id='body'>
             </tbody>
@@ -83,20 +86,32 @@
       var papers = allText.split('\n');
       papers.map(function(elem){
         var filename = elem.split(':')[0];
-        var date     = elem.split(':')[1];
+        var f_type = elem.split(':')[1];
+        var eventdate = elem.split(':')[2];
+        var available = elem.split(':')[3];
+        var date     = elem.split(':')[4];
         console.log('elem: '+filename)
         var body = $('#body'),
           tr = document.createElement('tr'),
           td1 = document.createElement('td'),
           td2 = document.createElement('td'),
+          td3 = document.createElement('td'),
+          td4 = document.createElement('td'),
+          td5 = document.createElement('td'),
           a = document.createElement('a');
         tr.setAttribute('class','clickable');
         a.setAttribute('href','papers/'+filename)
         a.innerHTML = filename
         td1.append(a)
-        td2.innerHTML   = date
+        td2.innerHTML   = f_type
+        td3.innerHTML   = eventdate
+        td4.innerHTML   = available
+        td5.innerHTML   = date
         tr.append(td1);
         tr.append(td2);
+        tr.append(td3);
+        tr.append(td4);
+        tr.append(td5);
         body.append(tr)
       });
     </script>
