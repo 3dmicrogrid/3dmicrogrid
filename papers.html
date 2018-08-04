@@ -103,7 +103,9 @@
           td6 = document.createElement('td'),
           a = document.createElement('a');
         tr.setAttribute('class','clickable');
-        a.setAttribute('href','papers/'+filename+'.pdf')
+        if(available == 'Yes'){
+          a.setAttribute('href','papers/'+filename+'.pdf');
+          }
         a.innerHTML = available
         td1.innerHTML   = filename
         td2.innerHTML   = f_type
