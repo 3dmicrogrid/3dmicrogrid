@@ -1,3 +1,12 @@
+title: Paper accepted for EFEA 2018:
+date:04 / 08 / 2018
+text:
+
+A 3DMicrogrid paper leaded by AGU University, called 'Cloud Induced PV Impact on Voltage Profiles for Real Microgrids' has been accepted for joining the EFEA 2018 conference. Environment-Friendly Energies and Applications (EFEA) is a forum for bringing academics, scientists, engineers and industry together to discuss the recent developments in environment friendly energies and their applications. The main theme of this symposium is on renewable and sustainable energy systems, hybrid transportation systems and energy security. The 5th Edition of EFEA will be held in Rome, Italy, on Sept. 24-26, 2018. The hosting institution will be the University of Rome - Sapienza, Faculty of Civil and Industrial Engineering, in close collaboration with the University of Valenciennes (Fr), the University of Northumbria (UK), and the University of L'Aquila (IT).
+
+/end
+
+
 title: MCAST Energy presents three papers at the 7th World Conference on Photovoltaic Energy Conversion (WCPEC-7), Hawaii:
 date:31 / 07 / 2018
 text:
