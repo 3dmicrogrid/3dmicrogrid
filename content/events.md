@@ -1,8 +1,11 @@
-title: UoS - MCAST & AGU - CERTH Young Researchers' Mobility
+title: UoS - MCAST, AGU - CERTH & GJU - UCY Young Researchers' Mobility
 date: 06/08/2018
 text:
 
-Along the 3DMicrogrid project's development, young researchers related to the initiative's work perform exchanges, sharing knowledge, points of view and strengthening bound between the associated institutions. Some examples of these collaborations are Francisco de Paula García's, from UoS, stay at MCAST facilities and Yeliz Yoldaş, from AGU, visit to CERTH to work on the design of the centralised controller for smart and active microgrids.
+Along the 3DMicrogrid project's development, young researchers related to the initiative's work perform exchanges, sharing knowledge, points of view and strengthening bound between the associated institutions. Some examples of these collaborations are the following:
+Francisco de Paula García's, from UoS, stayed at MCAST facilities working towards MCAST own microgrid in collaboration with the the host's researchers.
+Yeliz Yoldaş, from AGU, visited CERTH to work on the design of the centralised controller for smart and active microgrids.
+Mohamad Al Hashem visited UCY during the period from 22nd of October to the 3rd of November. He was working on the simulation model of GJU pilot. He has been given an access to the research center of Cyprus University and provided also with an access to the computer server in  order to work on the needed software for the simulation.
 
 /end
 
