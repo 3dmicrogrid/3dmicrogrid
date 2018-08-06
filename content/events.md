@@ -1,3 +1,11 @@
+title: UoS - MCAST & AGU - CERTH Young Researchers' Mobility
+date: 06/08/2018
+text:
+
+Along the 3DMicrogrid project's development, young researchers related to the initiative's work perform exchanges, sharing knowledge, points of view and strengthening bound between the associated institutions. Some examples of these collaborations are Francisco de Paula García's, from UoS, stay at MCAST facilities and Yeliz Yoldaş, from AGU, visit to CERTH to work on the design of the centralised controller for smart and active microgrids.
+
+/end
+
 title: Paper accepted for EFEA 2018:
 date:04 / 08 / 2018
 text:
