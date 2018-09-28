@@ -1,3 +1,18 @@
+title: SEST 2018
+date: 28/09/2018
+text:
+
+The 3DMicrogrid team has presented four papers at the SEST 2018 Conference held in Seville from 10 to 12 September. The papers are related to the decentralised control of microgrids, the islanding and resynchronisation procedure and the provision of ancillary services to the MW distribution grid by the microgrid. The four papers are available in the Publications tab of our Web.
+
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/SEST2018.jpeg'>
+	</div>
+</div>
+
+/end
+
+
 title: UoS - MCAST, AGU - CERTH & GJU - UCY Young Researchers' Mobility
 date: 06/08/2018
 text:
