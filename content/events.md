@@ -1,3 +1,17 @@
+title: Master’s Student from GJU hosted at CERTH/ITI
+date: 10/12/2018
+text:
+
+Continuing the Young Researchers mobility program of the 3DMicroGrid project, CERTH/ITI had the pleasure to host Mrs. Nisreen Al-Motlaq, a Master’s student from the German Jordan University (GJU, Amman, Jordan). As a Computer Science engineer, she worked closely with CERTH team on the multi-agent system and specifically on the integration of the 3DMicroGrid SCADA system on the GJU campus. The adjustments required for the microgrid design on the GJU were thoroughly examined and analyzed so as to properly design the features required to test, evaluate and validate the overall system on the GJU model. This two-week collaboration is expected to provide further valuable results on the solutions provided from the 3DMicroGrid project and beyond its lifecycle.
+
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/GJU2ITI.jpg'>
+	</div>
+</div>
+
+/end
+
 title: SEST 2018
 date: 28/09/2018
 text:
