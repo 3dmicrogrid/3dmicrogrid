@@ -1,3 +1,12 @@
+title: Darmstad's Plenary and Industrial Board Meeting
+date: 10/01/2019
+text:
+
+During last November, the 3DMicroGrid people met at Darmstad, at the facilities of Energynautics, member of the project. Energynautics held an event in which the project was reviewed and analyzed, checking previously accomplished work and settling further milestones looking towards the conclusion of the project's scope.
+
+/end
+
+
 title: Master’s Student from GJU hosted at CERTH/ITI
 date: 10/12/2018
 text:
