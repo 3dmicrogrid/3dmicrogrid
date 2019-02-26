@@ -4,6 +4,13 @@ text:
 
 During last November, the 3DMicroGrid people met at Darmstad, at the facilities of Energynautics, member of the project. Energynautics held an event in which the project was reviewed and analyzed, checking previously accomplished work and settling further milestones looking towards the conclusion of the project's scope.
 
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/Darmstad.jpeg'>
+	</div>
+</div>
+
+
 /end
 
 
