@@ -1,3 +1,12 @@
+title: GJU Student at UCY
+date: 12/03/2019
+text:
+
+Asma Alkhraibat from GJU visited UCY during the period from 16th of February to the 3rd of March 2019. She was working on the simulation model of GJU pilot focusing on some reactive management scheme for photovoltaics in order to maintain a unity power factor regarding the power exchange between microgrid and the main grid. Furhter, she was able to work on some real-time simulation scenarios utilizing the real-time laboratory facilities of UCY.
+
+/end
+
+
 title: Darmstad's Plenary and Industrial Board Meeting
 date: 10/01/2019
 text:
@@ -9,7 +18,6 @@ During last November, the 3DMicroGrid people met at Darmstad, at the facilities 
 		<img class='img-responsive' src='img/eventsFiles/Darmstad.jpeg'>
 	</div>
 </div>
-
 
 /end
 
@@ -27,6 +35,7 @@ Continuing the Young Researchers mobility program of the 3DMicroGrid project, CE
 </div>
 
 /end
+
 
 title: SEST 2018
 date: 28/09/2018
@@ -90,6 +99,7 @@ Mob: +356 7900 8897.
 
 /end
 
+
 title: Energynautics at Hybrid Power Systems Workshop in Tenerife
 date:27 / 06 / 2018
 text:
@@ -103,6 +113,7 @@ Beside the regular sessions the workshop also offered great networking opportuni
 You may find the 3DMicroGrid's presentation [here](http://www.3dmicrogrid.com/papers/Hybrid%20Workshop%20Tenerife%202018%20-%20Framework%20Design%20for%20Smart%20Microgrids.pdf) and [here](http://www.3dmicrogrid.com/papers/Hybrid%20Workshop%20Tenerife%202018%20-%20Energynautics.pdf).
 
 /end
+
 
 title: EnergyCon and 3DMicrogrid Plenary Meeting
 date:20 / 06 / 2018
@@ -118,6 +129,7 @@ You can have a look at the shown papers following these links: [paper 1](http://
 	</
 
 /end
+
 
 title: New 3DMicrogrid Paper Available on IEEE Xplore.
 date:12 / 03 / 2018
@@ -174,6 +186,7 @@ The 3DMicroGrid project participated in the 9th International IEEE PES Asia-Paci
 For more information, visit the conference site (http://ieee-appeec2017.org/) or contact the main author Angelina Bintoudi (bintoudi@iti.gr).
 
 /end
+
 
 title:Seville's 3DMicrogrid Workshop: Smart Microgrid Design.
 date:23 / 11 / 2017
