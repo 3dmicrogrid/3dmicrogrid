@@ -4,6 +4,18 @@ text:
 
 Recently CERTH hosted the plenary & industrial board meeting of the 3DMicrogrid project, in which the team had the chance to discuss the work flow and review achieved results so far. Furhtermore, assistants could visit CERTH SmartHome Microgrid in a guided tour by hosts.
 
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/Thes_01.jpeg.JPG'>
+	</div>
+</div>
+
+<div class='row'>
+	<div class='col-md-12'>
+		<img class='img-responsive' src='img/eventsFiles/Thes_02.jpeg.JPG'>
+	</div>
+</div>
+
 /end
 
 title: GJU Student at UCY
@@ -11,18 +23,6 @@ date: 12/03/2019
 text:
 
 Asma Alkhraibat from GJU visited UCY during the period from 16th of February to the 3rd of March 2019. She was working on the simulation model of GJU pilot focusing on some reactive management scheme for photovoltaics in order to maintain a unity power factor regarding the power exchange between microgrid and the main grid. Furhter, she was able to work on some real-time simulation scenarios utilizing the real-time laboratory facilities of UCY.
-
-<div class='row'>
-	<div class='col-md-12'>
-		<img class='img-responsive' src='img/eventsFiles/Thes_01.jpeg'>
-	</div>
-</div>
-
-<div class='row'>
-	<div class='col-md-12'>
-		<img class='img-responsive' src='img/eventsFiles/Thes_02.jpeg'>
-	</div>
-</div>
 
 /end
 
