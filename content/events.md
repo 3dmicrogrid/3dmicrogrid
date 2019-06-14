@@ -6,13 +6,13 @@ Recently CERTH hosted the plenary & industrial board meeting of the 3DMicrogrid 
 
 <div class='row'>
 	<div class='col-md-12'>
-		<img class='img-responsive' src='img/eventsFiles/Thes_01.jpeg'>
+		<img class='img-responsive' src='img/eventsFiles/Thes_01.jpeg.JPG'>
 	</div>
 </div>
 
 <div class='row'>
 	<div class='col-md-12'>
-		<img class='img-responsive' src='img/eventsFiles/Thes_02.jpeg'>
+		<img class='img-responsive' src='img/eventsFiles/Thes_02.jpeg.JPG'>
 	</div>
 </div>
 
