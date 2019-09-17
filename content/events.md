@@ -1,5 +1,5 @@
 title: The 3rd MCAST Energy Day Conference
-date: 10/10/2019
+date: 17/09/2019
 text:
 
 The 3rd MCAST Energy Day is the third conference in the series of the MCAST Energy Research Group (MCAST Energy) events. This year the conference will focus on the microgrid and PV integration research themes and is supported by the 3DMicroGrid and JUMP2Excel projects. The conference aims to disseminate the 3DMicroGrid projects results and encourage debate on the specialised topics. The activity is mainly knowledge transfer and networking while delivering talks from eminent speakers who are working in the field.
